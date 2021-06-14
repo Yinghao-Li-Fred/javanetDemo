@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TheRealChatRoom/TheRealChatRoom.iml" filepath="$PROJECT_DIR$/TheRealChatRoom/TheRealChatRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule1/javanetModule1.iml" filepath="$PROJECT_DIR$/javanetModule1/javanetModule1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule2/javanetModule2.iml" filepath="$PROJECT_DIR$/javanetModule2/javanetModule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule2Practice/javanetModule2Practice.iml" filepath="$PROJECT_DIR$/javanetModule2Practice/javanetModule2Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule3/javanetModule3.iml" filepath="$PROJECT_DIR$/javanetModule3/javanetModule3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule4/javanetModule4.iml" filepath="$PROJECT_DIR$/javanetModule4/javanetModule4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule5/javanetModule5.iml" filepath="$PROJECT_DIR$/javanetModule5/javanetModule5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule6/javanetModule6.iml" filepath="$PROJECT_DIR$/javanetModule6/javanetModule6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetModule8/javanetModule8.iml" filepath="$PROJECT_DIR$/javanetModule8/javanetModule8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanetdemo.iml" filepath="$PROJECT_DIR$/javanetdemo.iml" />
+    </modules>
+  </component>
+</project>
